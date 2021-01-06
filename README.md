@@ -1,13 +1,15 @@
 # Calendrier - Nettoyage hebdomadaire
 ## Contexte
-    En Septembre 2020 j'ai effectué un stage dans une entreprise d'artisan où j'ai créé seul le site et son back-office.
-    
-    Au cours de ce stage le client m'a demandé une petite application qui faciliterai le travail du chef d'équipe qui effectuait ses calendriers sur excell.
+    - En Septembre 2020 j'ai effectué un stage dans une entreprise d'artisan où j'ai créé seul le site et son back-office.
+    Voici le site : [eur-guillermain.fr](https://www.eurl-guillermain.fr/)
+    - Au cours de ce stage le client m'a demandé une petite application qui faciliterai 
+    le travail du chef d'équipe qui effectuait ses calendriers sur excell.
   
-**<u>Demande du client :</u>** 
-* Automatiser la création d'un calendrier d'un an avec le nom d'un ouvrier chaque vendredi, recommencer les noms s'ils ont tous été utilisés.
+Demande du client :
+* Automatiser la création d'un calendrier d'un an avec le nom d'un ouvrier chaque vendredi, 
+recommencer les noms s'ils ont tous été utilisés.
 
-**<u>Réalisation :</u>**
+Réalisation :
 
 - Possibilité d'ajouter, modifier, supprimer le nom d'un ouvrier.
 
