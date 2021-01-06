@@ -1,24 +1,28 @@
 # Calendrier - Nettoyage hebdomadaire
+## Contexte
+    En Septembre 2020 j'ai effectué un stage dans une entreprise d'artisan où j'ai créé seul le site et son back-office.
+    
+    Au cours de ce stage le client m'a demandé une petite application qui faciliterai le travail du chef d'équipe qui effectuait ses calendriers sur excell.
+  
+**<u>Demande du client :</u>** 
+* Automatiser la création d'un calendrier d'un an avec le nom d'un ouvrier chaque vendredi, recommencer les noms s'ils ont tous été utilisés.
 
-    Projet réalisé suite à la demande d'un client lors de la création de son site + back-office en Septembre 2020.  
-  
-    Demande du client :  
-        Pouvoir créer un calendrier avec le nom d'un ouvrier chaque vendredi.  
-  
-    Réalisation :  
-        - Possibilité d'ajouter, modifier, supprimer le nom d'un ouvrier.  
-          
-        - Possibilité d'ajouter (indéfiniment) ou non des périodes de vacances.  
-          
-        - Création du calendrier avec : * Jours fériés (Bleu).  
-                                        * Week-end (Marron/Rouge).  
-                                        * Vacances (Gris).  
-                                        * Nom d'un ouvrier chaque vendredi (en gras)  
+**<u>Réalisation :</u>**
+
+- Possibilité d'ajouter, modifier, supprimer le nom d'un ouvrier.
+
+- Possibilité d'ajouter (indéfiniment) ou non des périodes de vacances.
+
+* Création du calendrier avec : 
+	- Jours fériés (Bleu).
+	- Week-end (Marron/Rouge).
+	- Vacances (Gris).
+	- Nom d'un ouvrier chaque vendredi (en gras)
 
 
 ## Pour commencer
 
-    - Modifier le fichier connect.php
+    - Modifier le fichier connect.php pour vous connecter à votre base de données.
 
     - Après avoir choisi le nom de la base de données, créer une table BDD_ouvriers.
 
@@ -26,9 +30,8 @@
 
 
 ## Aperçu du résultat
-    [Calendrier](https://github.com/Bertoia-Jeremy/Calendrier/blob/master/Images/calendrier.pdf/)
-    [Tableau](https://github.com/Bertoia-Jeremy/Calendrier/blob/master/Images/calendrier_tb.png/)
-    [Création vacances](https://github.com/Bertoia-Jeremy/Calendrier/blob/master/Images/calendrier_vacances.png/)
+    
+    Voir le PDF Calendrier.pdf
 
 
 ## Fabriqué avec
