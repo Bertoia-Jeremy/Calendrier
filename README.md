@@ -26,20 +26,18 @@
 
 
 ## Aperçu du résultat
-    [Calendrier](https://github.com/Bertoia-Jeremy/Calendrier/blob/master/Images/calendrier.pdf)
-    [Tableau](https://github.com/Bertoia-Jeremy/Calendrier/blob/master/Images/calendrier_tb.png)
-    [Création vacances](https://github.com/Bertoia-Jeremy/Calendrier/blob/master/Images/calendrier_vacances.png)
+    [Calendrier](https://github.com/Bertoia-Jeremy/Calendrier/blob/master/Images/calendrier.pdf/)
+    [Tableau](https://github.com/Bertoia-Jeremy/Calendrier/blob/master/Images/calendrier_tb.png/)
+    [Création vacances](https://github.com/Bertoia-Jeremy/Calendrier/blob/master/Images/calendrier_vacances.png/)
 
 
 ## Fabriqué avec
-* [PHP](https://fr.wikipedia.org/wiki/PHP#/media/Fichier:PHP-logo.svg)
-* [SQL]
-* [Javascript]
+* [PHP](https://www.php.net/) - Langage Back-end
+* [SQL](https://sql.sh/) - Langage Back-end
+* [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript) - Langage Front-end
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - Framework CSS (front-end)
-
+* [HTML2PDF](https://www.html2pdf.fr/) - Librairie - Convertisseur de code HTML vers PDF
 * [Visual Studio Code](https://code.visualstudio.com/) - Editeur de textes
-
-* [HTML2PDF] (https://www.html2pdf.fr/) - Librairie - Convertisseur de code HTML vers PDF
 
 
 
